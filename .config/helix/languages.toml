@@ -1,0 +1,29 @@
+[[language]]
+name = "javascript"
+indent = { tab-width = 2, unit = " " }
+
+[[language]]
+name = "typescript"
+indent = { tab-width = 2, unit = " " }
+
+[[language]]
+name = "jsx"
+indent = { tab-width = 2, unit = " "}
+
+[[language]]
+name = "tsx"
+indent = { tab-width = 2, unit = " "}
+
+[[language]]
+name = "go"
+
+[[language]]
+name = "html"
+indent = { tab-width = 2, unit = " "}
+
+[[language]]
+name = "css"
+indent = { tab-width = 2, unit = " "}
+
+[[language]]
+name = "json"
